@@ -13,6 +13,8 @@ Ao refletir sobre essa jornada, reconheço a importância vital do projeto ToDoL
 
 <p>Hospedei o site no próprio git hub pages, e commitei este projeto através do terminal do Visual Studio Code</p>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
