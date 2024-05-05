@@ -10,6 +10,16 @@ Ao refletir sobre essa jornada, reconheço a importância vital do projeto ToDoL
 ![image](https://github.com/DevGustavoGantois/TodoList-em-React/assets/123424700/4ecbc77a-4d7f-4b7c-bcc4-23d1b78f1017)
 
 
+
+
+
+
+
+
+
+
+
+
 <p>The ToDoList project in React was an incredibly enriching experience for my personal development. During the construction process, I was able to consolidate a series of fundamental concepts related to the React library, as well as deepen my understanding of JavaScript's advanced functionalities.
 
 Through this project, I explored and internalized essential concepts, including the effective use of props, states and hooks, fundamental for creating dynamic and interactive components. Additionally, I gained a solid understanding of the organization and division of components, applying best development practices to ensure clean, maintainable code.
